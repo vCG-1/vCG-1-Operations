@@ -1,22 +1,14 @@
 # OPERATION URGENT FURY
 
 <br>
-This page gives necessary information for participation on 132nd Virtual Wing's campaing Operation Urgent Fury. <br>
-- Events uses latest version of DCS Open Beta  
-- Events uses  **SRS**
+This page gives necessary information for participation on Virtual Carrier Group 1's (vCG-1) operations.<br>
+- vCG-1 Events uses latest version of DCS Open Beta
+- vCG-1 Events require members to own the module of the aircraft assigned their squadron.
+- vCG-1 Events may require DCS: Persian Gulf, DCS: NEVADA Test and Training Range Map
+- vCG-1 Events require **Simple Radio Standalone (SRS)**
 <br>
 
-
-
-
-Please signup on 132nd Virtual Wing's event page (user on the 132nd website is required): <br>
-[132nd Events](http://www.132virtualwing.org/index.php/page/events)
-
-**NOTE 1** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
-<br>
-<br>
-<br>
-**NOTE 2** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
+**NOTE 1** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
 <br>
 <br>
 <br>
