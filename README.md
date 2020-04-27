@@ -1,4 +1,6 @@
-# Virtual Carrier Group 1 Standard Operating Procedures
+# Standard Operating Procedures
+# Virtual Carrier Group 1<br>
+
 
 <br>
 This page gives necessary information for participation on Virtual Carrier Group 1's (vCG-1) operations. The information contained herein shall be applicable unless otherwise directed. <br>
