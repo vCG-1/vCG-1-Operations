@@ -15,12 +15,8 @@ This page gives necessary information for participation on Virtual Carrier Group
 <br>
 <br>
 
-## Situation
-[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html) |  
-[Recordings](/OPUF-Brief/Docs/Movies.html) | [Target List](/OPUF-Brief/Docs/TARGET/Target_list.html) | [Archive Missions](/OPUF-Brief/Docs/Archive.html) |  
-
-
-
+## Normal Operations
+[Airport Operations](https://docs.google.com/presentation/d/1zPeIdNJX61iIiau-iFm7Q91_5PFJgKxZKH2RSdauakg/edit?usp=sharing) |  [Al Dhafra (OMAM)](https://docs.google.com/presentation/d/1zPeIdNJX61iIiau-iFm7Q91_5PFJgKxZKH2RSdauakg/edit?usp=sharing)
 
 ## Admin
 [Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
