@@ -16,18 +16,10 @@ This page gives necessary information for participation on Virtual Carrier Group
 <br>
 
 ## Normal Operations
-[Airport Operations](https://docs.google.com/presentation/d/1WDY4isuGR0jIVuFYzGfWGZSakSwZPpTUVgh8AAc9EXA/edit?usp=sharing) |  
-<br>
-
-### Shore-Based Operations
-[Airport Operations](https://docs.google.com/presentation/d/1WDY4isuGR0jIVuFYzGfWGZSakSwZPpTUVgh8AAc9EXA/edit?usp=sharing) |  
+[Shore-Based Operations](https://docs.google.com/presentation/d/1WDY4isuGR0jIVuFYzGfWGZSakSwZPpTUVgh8AAc9EXA/edit?usp=sharing) | [Shore-Based Operations Local Rules: Al Dhafra (OMAM)](https://docs.google.com/presentation/d/1zPeIdNJX61iIiau-iFm7Q91_5PFJgKxZKH2RSdauakg/edit?usp=sharing) | [Carrier-Based Operations: Case I]() |
 
 <br>
-#### Local Course or Field Rules
-[Al Dhafra (OMAM)](https://docs.google.com/presentation/d/1zPeIdNJX61iIiau-iFm7Q91_5PFJgKxZKH2RSdauakg/edit?usp=sharing)
 
-<br>
-### Carrier-Based Procedures
 
 <br>
 ## Admin
