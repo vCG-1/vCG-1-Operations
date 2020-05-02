@@ -1,3 +1,7 @@
+
+![alt text][cg1-logo]
+
+[cg1-logo]: https://github.com/vCG-1/vCG-1-Operations/blob/master/CVW-14%20CG-1.png?raw=true "Virtual Carrier Group One" <br>
 # Virtual Carrier Group One (vCG-1)<br>
 
 
