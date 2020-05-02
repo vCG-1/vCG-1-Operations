@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/vCG-1/vCG-1-Operations/blob/master/CVW-14%20CG-1.png "Virtual Carrier Group One")<br>
+![alt text](https://github.com/vCG-1/vCG-1-Operations/blob/master/CVW-14%20CG-1.png "Virtual Carrier Group One"=100x100)<br>
 # Virtual Carrier Group One (vCG-1)<br>
 
 
