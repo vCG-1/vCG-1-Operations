@@ -1,5 +1,6 @@
 
-![](https://github.com/vCG-1/vCG-1-Operations/blob/master/CVW-14%20CG-1.png =100x100)<br>
+<img src="https://github.com/vCG-1/vCG-1-Operations/blob/master/CVW-14%20CG-1.png" alt="Virtual Carrier Group One" width="100"/>
+![]( =100x100)<br>
 # Virtual Carrier Group One (vCG-1)<br>
 
 
