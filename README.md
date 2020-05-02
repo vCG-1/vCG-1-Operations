@@ -15,7 +15,7 @@ This page gives necessary information for participation on Virtual Carrier Group
 <br>
 
 ## Virtual Carrier Group One Charter
-[Organization Charter](https://teamup.com/ksso2arcf2w8o6h4e7)<br>
+[Organization Charter](https://docs.google.com/document/d/1trC6PvTFCw_6FipROayHbhP9rTDc4F73colRTCqYZ2A/edit?usp=sharing)<br>
 
 ## Operations Calendar
 [Operations Calendar](https://teamup.com/ksso2arcf2w8o6h4e7)<br>
