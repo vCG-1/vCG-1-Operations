@@ -36,7 +36,7 @@ This calendar is used to plan, schedule, and coordinate operations with vCG-1.
 <br>
 
 ## Admin
-[AUTOMATED COMMUNICATIONS-ELECTRONIC OPERATING INSTRUCTIONS (ACEOI)](https://drive.google.com/file/d/1lesVVE4f1ouFNC6fUKXH9UgtojQt2cIO/view?usp=sharing) | 
+[Automated Communications-Electronic Operating Instructions (ACEOI)](https://drive.google.com/file/d/1lesVVE4f1ouFNC6fUKXH9UgtojQt2cIO/view?usp=sharing) | 
 [COMM 1 Presets](https://drive.google.com/file/d/1iJR7gW3-CYlmUFCx1Nu-xo1fzyxBJxzq/view?usp=sharing)
 <!--
 [Admin info]() | [COMM 1 Presets](https://drive.google.com/file/d/1iJR7gW3-CYlmUFCx1Nu-xo1fzyxBJxzq/view?usp=sharing)  | [SPINS]() | [Navigation] 
