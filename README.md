@@ -37,4 +37,6 @@ This calendar is used to plan, schedule, and coordinate operations with vCG-1.
 
 ## Admin
 [COMM 1 Presets](https://drive.google.com/file/d/1iJR7gW3-CYlmUFCx1Nu-xo1fzyxBJxzq/view?usp=sharing)
-[//] [Admin info]() | [COMM 1 Presets](https://drive.google.com/file/d/1iJR7gW3-CYlmUFCx1Nu-xo1fzyxBJxzq/view?usp=sharing)  | [SPINS]() | [Navigation]
+<!--
+[Admin info]() | [COMM 1 Presets](https://drive.google.com/file/d/1iJR7gW3-CYlmUFCx1Nu-xo1fzyxBJxzq/view?usp=sharing)  | [SPINS]() | [Navigation] 
+-->
