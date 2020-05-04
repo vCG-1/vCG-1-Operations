@@ -25,6 +25,7 @@ This calendar is used to plan, schedule, and coordinate operations with vCG-1.
 
 ## References
 <br>
+
 ### Shore-Based Procedures
 [Shore-Based Operations](https://docs.google.com/presentation/d/1WDY4isuGR0jIVuFYzGfWGZSakSwZPpTUVgh8AAc9EXA/edit?usp=sharing) | [Shore-Based Operations Local Rules: Al Dhafra (OMAM)](https://docs.google.com/presentation/d/1zPeIdNJX61iIiau-iFm7Q91_5PFJgKxZKH2RSdauakg/edit?usp=sharing) <br>
 
