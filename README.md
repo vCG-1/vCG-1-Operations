@@ -31,7 +31,7 @@ This calendar is used to plan, schedule, and coordinate operations with vCG-1.
 
 ### CV Operations
 
-[CV Operations - Carrier Card](https://drive.google.com/file/d/17Jj_avu_fAJu7naW6dS5S8jlAHHCB5hb/view?usp=sharing)
+[CV Operations - Carrier Card](https://drive.google.com/file/d/17Jj_avu_fAJu7naW6dS5S8jlAHHCB5hb/view?usp=sharing) |
 [CV Operations - CASE I](https://drive.google.com/file/d/1aDD1x2_zO8Tb6TwE3HhHYkK29YiqF3K0/view?usp=sharing)
 <br>
 
