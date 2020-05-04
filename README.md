@@ -1,5 +1,5 @@
 
-<img src="https://github.com/vCG-1/vCG-1-Operations/blob/master/CVW-14%20CG-1.png" alt="Virtual Carrier Group One" width="200"/><br>
+<img src="https://github.com/vCG-1/vCG-1-Operations/blob/master/Logo 12-2019.jpg" alt="Virtual Carrier Group One" width="200"/><br>
 # Virtual Carrier Group One (vCG-1)<br>
 
 
