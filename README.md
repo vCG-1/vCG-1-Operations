@@ -29,8 +29,6 @@ This calendar is used to plan, schedule, and coordinate operations with vCG-1.
 ### Shore-Based Procedures
 [Shore-Based Operations](https://docs.google.com/presentation/d/1WDY4isuGR0jIVuFYzGfWGZSakSwZPpTUVgh8AAc9EXA/edit?usp=sharing) | [Shore-Based Operations Local Rules: Al Dhafra (OMAM)](https://docs.google.com/presentation/d/1zPeIdNJX61iIiau-iFm7Q91_5PFJgKxZKH2RSdauakg/edit?usp=sharing) | [Al Dhafra - OMAM Plate](https://drive.google.com/file/d/1LyVS9-LszrrKjlpFWUG1nPoK_L_KMjiY/view?usp=sharing)<br>
 
-https://drive.google.com/file/d/1LyVS9-LszrrKjlpFWUG1nPoK_L_KMjiY/view?usp=sharing
-
 ### CV Operations
 
 [CV Operations - Carrier Card](https://drive.google.com/file/d/17Jj_avu_fAJu7naW6dS5S8jlAHHCB5hb/view?usp=sharing) |
